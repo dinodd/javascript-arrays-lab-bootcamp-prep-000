@@ -1,6 +1,6 @@
 const app = "I don't do much."
 
-function arrays(); {
+function arrays() {
   kittens = ['Milo', 'Otis', 'Garfield'];
   return kittens;
 }
