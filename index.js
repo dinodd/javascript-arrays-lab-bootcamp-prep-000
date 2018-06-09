@@ -1,6 +1,11 @@
 const app = "I don't do much."
 
 function arrays() {
-  var kittens = ['Milo', 'Otis', 'Garfield'];
+  kittens = ['Milo', 'Otis', 'Garfield'];
+  return kittens;
+}
+
+function kittens() {
+  var kittens  = ['Milo', 'Otis', 'Garfield'];
   return kittens;
 }
